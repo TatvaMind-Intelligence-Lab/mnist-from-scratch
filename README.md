@@ -27,6 +27,12 @@ The goal of this project is to understand the fundamentals of deep learning by i
 
 The model learns to classify handwritten digits (0–9) with reasonable accuracy using a custom implementation.
 
+## 📝 Articles
+
+- Building a Neural Network from Scratch (MNIST)  
+  [Medium Article](https://medium.com/@tatvamindlabs/building-a-neural-network-from-scratch-mnist-explained-f669c50b08c6)
+  [Hashnode Article](https://tatvamindlabs.hashnode.dev/building-a-neural-network-from-scratch-mnist-explained)
+
 ## 🚀 Usage
 
 Run the notebook:
