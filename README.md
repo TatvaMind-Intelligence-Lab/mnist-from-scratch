@@ -50,7 +50,7 @@ TatvaMind Intelligence Lab focuses on building intelligent systems including:
 - Anomaly Detection
 - Deepfake Detection
 
-🔗 https://tatvamindlabs.vercel.app
+🔗 [TatvaMind Intelligence Lab](https://www.tatvamindintelligencelab.com/)
 
 📩 Contact
 
